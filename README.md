@@ -31,7 +31,7 @@ The following command imports the key from a server `https://keys.openpgp.org/`:
 
     gpg --recv-keys 9AFEEB85ADC62CA12B99E500309F1EAF0848DCA3
 
-It can also be downloaded using this [direct link][3]) and imported. 
+It can also be downloaded using this [direct link][3] and imported. 
 
     gpg --import <file name>.asc
 
