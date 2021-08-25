@@ -10,6 +10,8 @@ The script can also generate a sequence of random alphanumeric characters, which
 
 Currently, only two languages are covered: `en` and `pl`.
 
+As a side note, [Password strength test][4] is one of the tools to have a rough idea about how strong a passphrase is. While the _application is neither perfect nor foolproof_, as describer states, it still points out potential weak parts of a password.
+
 **The files `diceware-wordlist-XX.asc`**
 
 Both files which contain a list of words are signed by this key: [9AFEEB85ADC62CA12B99E500309F1EAF0848DCA3][3], whose content is following:
@@ -38,3 +40,4 @@ It can also be downloaded using this [direct link][3] and imported.
 [1]: https://theworld.com/~reinhold/diceware.html
 [2]: https://theworld.com/~reinhold/dicewarefaq.html
 [3]: https://keys.openpgp.org/vks/v1/by-fingerprint/9AFEEB85ADC62CA12B99E500309F1EAF0848DCA3
+[4]: https://www.uic.edu/apps/strong-password/
